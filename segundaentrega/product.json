@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0",
+    "title": "titulo6",
+    "description": "descripcion2",
+    "price": 120,
+    "thumbnail": "img.png",
+    "code": "ABC12345678",
+    "stock": 12
+  },
+  {
+    "id": "1",
+    "title": "titulo6",
+    "description": "descripcion2",
+    "price": 120,
+    "thumbnail": "img.png",
+    "code": "ABC12345678",
+    "stock": 12
+  }
+]
